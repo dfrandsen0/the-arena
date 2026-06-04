@@ -51,7 +51,7 @@ Currently, the bots are extremely simple. They either do nothing, or simply crea
 
 Multiplayer currently doesn't work, and the matchmaking server is offline. At some point, I'll rewrite the server, and it be back online.
 
-It's possible at some point I'll clean up the graphics and networking and publish this on Steam.
+It's possible at some point I'll clean up the graphics and networking and publish this on Steam. (I think it would be fun!)
 
 ### Bugs
 
