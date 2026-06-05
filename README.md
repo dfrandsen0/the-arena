@@ -11,8 +11,8 @@ Each player is given 3 "spawns". Players win by sending 20 units to each enemy s
 
 There are three types of units: square, triangle, and circle. Each follow a classic battle triangle:
 
-1 square can take out 2 triangles.
-1 triangle can take out 2 circles.
+1 square can take out 2 triangles; 
+1 triangle can take out 2 circles; 
 1 circle can take out 2 squares.
 
 Each unit costs the same amount and does the same amount of damage to an enemy spawn. Units can be spawned by clicking on a spawn (highlighting it) and then selecting the appropriate unit button at the bottom.
@@ -41,7 +41,7 @@ After compiling, the program can be rerun like so:
 
 ```.\main.exe```
 
-Note this will not work without the required Windows libraries, including Direct2D 1.1.
+Note this will not work without the required Windows libraries, including Direct2D 1.0.
 
 Because this repo contains all the code for this game, players can mess around with the config.h file and find settings they like, including costs, income, movement speed, etc. There is also a template bot in case players wish to make their own AI. What bots play in singleplayer can be changed in network.cpp (this will be changed in the future to parameter file or config.h. See Future work.)
 
