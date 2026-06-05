@@ -3,7 +3,7 @@
 
 ![An example of the arena during play.](/Resources/ReadmePics/image1.jpg)
 
-Welcome to the Arena! In this game, each player battles to defend their base and destroy their enemy's. Players spawn units to attack, place towers to defend, and design wall layouts to shape the game. This game is a mixture of real time strategy and tower defense. It is both simple and strategic. Players must think ahead and have quick reflexes to win.
+Welcome to the Arena! In this game, each player battles to defend their base and destroy their enemy. Players spawn units to attack, place towers to defend, and design wall layouts to shape the game. This game is a mixture of real time strategy and tower defense. It is both simple and strategic. Players must think ahead and have quick reflexes to win.
 
 ### How to Play
 
